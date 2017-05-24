@@ -1,0 +1,10 @@
+{
+  "routes": {
+    "b": "https://zhuanlan.zhihu.com/wu-xi",
+    "i": "https://www.instagram.com/_humptydumpty_",
+    "t": "https://twitter.com/xiluotonghua",
+    "w": "http://weibo.com/wuxiwuxiwuxi",
+    "/": "Wuxi's tinyurl service.",
+    "?": "Now go, let the legend come back to life!"
+  }
+}
