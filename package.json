@@ -1,7 +1,7 @@
 {
-  "name": "tinyurls",
+  "name": "redirects",
   "version": "1.0.0",
-  "main": "index.js",
+  "private": true,
   "repository": "https://github.com/amio/tinyurls.git",
   "author": "Amio <amio.cn@gmail.com>",
   "license": "MIT",

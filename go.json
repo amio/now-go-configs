@@ -1,8 +1,0 @@
-{
-  "routes": {
-    "ocelot.jpg": "PROXY >> https://amio.github.io/now-go-configs/ocelot.jpg",
-    "now-go": "Now go, let the legend come back to life!",
-    "/": "https://github.com/amio/now-go",
-    "?": "What are you looking for?"
-  }
-}
