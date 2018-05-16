@@ -1,0 +1,14 @@
+{
+  "name": "tinyurls",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/amio/tinyurls.git",
+  "author": "Amio <amio.cn@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "now-go": "^2.0.0-0"
+  }
+}
