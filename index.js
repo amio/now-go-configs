@@ -37,10 +37,10 @@ const cfgAmio = {
 }
 
 const cfgWuxi = {
-  "/b": "https://zhuanlan.zhihu.com/wu-xi",
-  "/i": "https://www.instagram.com/_humptydumpty_",
-  "/t": "https://twitter.com/xiluotonghua",
-  "/w": "http://weibo.com/wuxiwuxiwuxi",
+  "/blog": "https://zhuanlan.zhihu.com/wu-xi",
+  "/weibo": "http://weibo.com/wuxiwuxiwuxi",
+  "/twitter": "https://twitter.com/xiluotonghua",
+  "/ig": "https://www.instagram.com/_humptydumpty_",
   "*": "Xi's tinyurl service."
 }
 
