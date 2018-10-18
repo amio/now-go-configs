@@ -29,12 +29,12 @@ const config = {
 }
 
 const cfgAmio = {
-  "/b": "http://blog.amio.us/",
+  "/b": "https://blog.amio.cn",
   "/i": "https://www.instagram.com/amiocn",
   "/t": "https://twitter.com/amiocn",
-  "/w": "http://weibo.com/amio",
-  "/": "Amio's tinyurl service.",
-  "*": "What are you looking for"
+  "/w": "https://weibo.com/amio",
+  "/": "Amio's tinyurl service. b/i/t/w",
+  "*": "What are you looking for?"
 }
 
 const cfgWuxi = {
