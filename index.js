@@ -7,6 +7,7 @@ const config = {
 
     switch (host) {
       case 'amio.us':
+      case 'jins.io':
         return 'https://amio.cn' + url
 
       case 'blog.amio.us':
