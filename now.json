@@ -1,12 +1,18 @@
 {
+  "version": 2,
   "alias": [
     "amio.us",
     "jins.io",
-    "blog.amio.us",
     "wuxi.sh",
     "a.now.sh",
     "x.now.sh",
     "jin.now.sh",
     "amio.now.sh"
+  ],
+  "builds": [
+    { "src": "index.js", "use": "@now/node" }
+  ],
+  "routes": [
+    { "src": ".*", "dest": "index.js" }
   ]
 }

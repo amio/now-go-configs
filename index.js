@@ -4,6 +4,7 @@ const config = {
   '*': (req) => {
     const { url } = req
     const { host } = req.headers
+    console.log(host + url)
 
     switch (host) {
       case 'amio.us':
@@ -45,4 +46,8 @@ const cfgWuxi = {
   "*": "Xi's tinyurl service."
 }
 
-go(config)
+module.exports = go.createHandler(config)
+
+if (require.main === module) {
+  require('http').createServer(module.exports).listen(3000)
+}

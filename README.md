@@ -1,3 +1,3 @@
 # tinyurls
 
-Amio's tiny-url & redirection service.
+Amio's tinyurl & redirection service.

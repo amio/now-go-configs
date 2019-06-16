@@ -1,14 +1,13 @@
 {
   "name": "redirects",
-  "version": "1.0.0",
   "private": true,
-  "repository": "https://github.com/amio/tinyurls.git",
+  "repository": "amio/tinyurls",
   "author": "Amio <amio.cn@gmail.com>",
   "license": "MIT",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "now-go": "^2.0.0-0"
+    "now-go": "^2.0.0"
   }
 }
