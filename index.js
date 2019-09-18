@@ -34,7 +34,7 @@ const cfgAmio = {
   "/i": "https://www.instagram.com/amiocn",
   "/t": "https://twitter.com/amiocn",
   "/w": "https://weibo.com/amio",
-  "/": "Amio's tinyurl service. b/i/t/w",
+  "/": "Amio's tinyurl service. /b /i /t /w",
   "*": "What are you looking for?"
 }
 
@@ -43,7 +43,7 @@ const cfgWuxi = {
   "/weibo": "http://weibo.com/wuxiwuxiwuxi",
   "/twitter": "https://twitter.com/xiluotonghua",
   "/ig": "https://www.instagram.com/_humptydumpty_",
-  "*": "Xi's tinyurl service."
+  "*": "Xi's tinyurl service.\n\n/blog\n/weibo\n/twitter\n/ig (for instagram)"
 }
 
 module.exports = go.createHandler(config)
